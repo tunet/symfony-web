@@ -1,6 +1,9 @@
 # Run Project
 
 ```bash
+$ cp .env.dist .env
+```
+```bash
 $ docker-compose up -d --build
 ```
 ```bash

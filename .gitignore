@@ -15,5 +15,6 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+/.idea/
 /supervisord.log
 /supervisord.pid
